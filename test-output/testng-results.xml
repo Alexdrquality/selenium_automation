@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-16T18:40:07 ART" name="Default suite" finished-at="2023-01-16T18:40:34 ART" duration-ms="26524">
+    <groups>
+    </groups>
+    <test started-at="2023-01-16T18:40:07 ART" name="Default test" finished-at="2023-01-16T18:40:34 ART" duration-ms="26524">
+      <class name="Edit.SauceDemo.login">
+        <test-method is-config="true" signature="abrirNavegador()[pri:0, instance:Edit.SauceDemo.login@4f6ee6e4]" started-at="2023-01-16T18:40:01 ART" name="abrirNavegador" finished-at="2023-01-16T18:40:07 ART" duration-ms="6386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abrirNavegador -->
+        <test-method signature="loginordenCompleta(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.login@4f6ee6e4]" started-at="2023-01-16T18:40:07 ART" name="loginordenCompleta" data-provider="Datos Order" finished-at="2023-01-16T18:40:11 ART" duration-ms="3377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Usuario prueba]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[s834845]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[brasil]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pepe]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1509]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Invalido]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginordenCompleta -->
+        <test-method signature="loginordenCompleta(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.login@4f6ee6e4]" started-at="2023-01-16T18:40:11 ART" name="loginordenCompleta" data-provider="Datos Order" finished-at="2023-01-16T18:40:14 ART" duration-ms="2755" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_Vides]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[brasil]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pepe]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1509]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ErrorUser]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginordenCompleta -->
+        <test-method signature="loginordenCompleta(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.login@4f6ee6e4]" started-at="2023-01-16T18:40:14 ART" name="loginordenCompleta" data-provider="Datos Order" finished-at="2023-01-16T18:40:16 ART" duration-ms="2662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fabiola Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[arg]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[juan]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[444]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ErrorPass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginordenCompleta -->
+        <test-method signature="loginordenCompleta(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.login@4f6ee6e4]" started-at="2023-01-16T18:40:16 ART" name="loginordenCompleta" data-provider="Datos Order" finished-at="2023-01-16T18:40:19 ART" duration-ms="2636" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[locked_out_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[brasil]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pepe]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1509]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Locked]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginordenCompleta -->
+        <test-method signature="loginordenCompleta(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.login@4f6ee6e4]" started-at="2023-01-16T18:40:19 ART" name="loginordenCompleta" data-provider="Datos Order" finished-at="2023-01-16T18:40:24 ART" duration-ms="5387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[problem_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauceNOOK]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[brasil]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pepe]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1509]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ProblemUser]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginordenCompleta -->
+        <test-method signature="loginordenCompleta(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.login@4f6ee6e4]" started-at="2023-01-16T18:40:24 ART" name="loginordenCompleta" data-provider="Datos Order" finished-at="2023-01-16T18:40:34 ART" duration-ms="9323" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[brasil]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pepe]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1509]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Valido]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginordenCompleta -->
+        <test-method is-config="true" signature="cerrarNavegador()[pri:0, instance:Edit.SauceDemo.login@4f6ee6e4]" started-at="2023-01-16T18:40:34 ART" name="cerrarNavegador" finished-at="2023-01-16T18:40:34 ART" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarNavegador -->
+      </class> <!-- Edit.SauceDemo.login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
